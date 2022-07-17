@@ -1,1 +1,1 @@
-# MERN_stack
+My new git repo for mern_stack work and notes while learning.
